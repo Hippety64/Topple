@@ -5,7 +5,7 @@
 // MAC address: 3C:71:BF:9D:CB:E0
 
 // ESP-01S MAC address (receiver)
-uint8_t receiverMac[] = {0x3C, 0x71, 0xBF, 0x9D, 0xCB, 0xE0};
+uint8_t receiverMac[] = {0x34, 0x94, 0x54, 0x85, 0x27, 0x65};
 
 // Simple protocol: just send a blink command
 typedef struct {
